@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab6_AndroidNetworking</string>
+    <string name="conversion_error">Unable To Convert</string>
+</resources>
